@@ -119,3 +119,6 @@ Sıralama adımları :
 
 Root = 7
 Rootun sağında 8 solunda 5 bulunur.
+
+![binary algoritma](https://user-images.githubusercontent.com/108726353/210182937-15f486d2-1eac-4586-b866-6809f4519fb7.png)
+
